@@ -11,11 +11,11 @@ input = f.read()
 # Z means you need to win
 def findLose(o):
   # opp played rock
-  if opponent == "A":
+  if o == "A":
     # play scissors
     return 3
   # opp played paper
-  elif opponent == "B":
+  elif o == "B":
     # play rock
     return 1
   # opp played scissors
