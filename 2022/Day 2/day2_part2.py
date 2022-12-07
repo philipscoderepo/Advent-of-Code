@@ -1,4 +1,4 @@
-f = open('day2_input.txt', 'r')
+f = open('input.txt', 'r')
 input = f.read()
 # A: Rock; 1 point
 # B: Paper; 2 points

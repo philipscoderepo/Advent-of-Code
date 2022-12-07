@@ -6,7 +6,7 @@ def calculatePriority(l):
     # lower case letter
     return ord(l) - 96
 
-f = open('day3_input.txt', 'r')
+f = open('input.txt', 'r')
 input = f.read()
 
 currLine = []

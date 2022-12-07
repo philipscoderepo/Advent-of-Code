@@ -1,5 +1,4 @@
-
-f = open('day1_input.txt', 'r')
+f = open('input.txt', 'r')
 input = f.read()
 
 max1 = 0

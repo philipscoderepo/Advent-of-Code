@@ -1,4 +1,4 @@
-f = open('day3_input.txt', 'r')
+f = open('input.txt', 'r')
 input = f.read()
 
 lineNum = 0
